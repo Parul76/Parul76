@@ -5,7 +5,7 @@
 
 💬 Ask me about almost anything!
 
-📫 How to reach me: Linkedin
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parulparul)
 
 ⚡ Fun fact: I love to play badminton and video games with good players.
 
