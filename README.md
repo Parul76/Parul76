@@ -1,7 +1,7 @@
 
 **Hello there, I'm Parul! 👋**
 
-🌱 I’m currently learning angular and digging deeper in React.
+🌱 I’m currently digging deeper in C#, React and API automation testing.
 
 💬 Ask me about almost anything!
 
