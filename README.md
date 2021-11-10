@@ -1,13 +1,13 @@
 
 **Hello there, I'm Parul! 👋**
 
-🌱 I’m currently digging deeper in C#, React and API automation testing.
+- 🌱 I’m currently digging deeper in C#, React and API automation testing.
 
-💬 Ask me about almost anything!
+- 💬 Ask me about almost anything!
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parulparul)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parulparul)
 
-⚡ Fun fact: I love to play badminton and video games with good players.
+- ⚡ Fun fact: I love to play badminton and video games with good players.
 
 
 
