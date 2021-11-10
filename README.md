@@ -1,5 +1,5 @@
 
-Hello there, I'm Parul! 👋
+**Hello there, I'm Parul! 👋**
 
 🌱 I’m currently learning angular and digging deeper in React.
 
