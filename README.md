@@ -1,6 +1,5 @@
 
 ### Hello there, I'm Parul! 👋**
-
 - 🌱 I’m currently digging deeper in C#, React and testing.
 - 💬 Ask me about almost anything!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parulparul)
